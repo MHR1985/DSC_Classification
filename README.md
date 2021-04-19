@@ -10,7 +10,8 @@ Kenneth Hansen
 ### Links to relevant files
 
 This is the notebook displaying our results.
-[notebook](/Notebooks/Classification.ipynb)
-
+[notebook](/Notebooks/Classification.ipynb)<br>
 This is the datasets we used
-[data](/Data/)
+[data](/Data/)<br>
+This is the assignment
+[data](assignment.pdf)<br>
