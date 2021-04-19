@@ -10,4 +10,7 @@ Kenneth Hansen
 ### Links to relevant files
 
 This is the notebook displaying our results.
-[Java Code](/Notebooks/Classification.ipynb)
+[notebook](/Notebooks/Classification.ipynb)
+
+This is the datasets we used
+[data](/Data/)
