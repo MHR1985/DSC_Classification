@@ -2,9 +2,9 @@
 
 ### Authors
 
-Simon Schønberg Bojesen
-Martin Høigaard Cupello
-Frederik Blem
+Simon Schønberg Bojesen<br>
+Martin Høigaard Cupello<br>
+Frederik Blem<br>
 Kenneth Hansen
 
 ### Links to relevant files
