@@ -13,5 +13,5 @@ This is the notebook displaying our results.
 [notebook](/Notebooks/Classification.ipynb)<br>
 This is the datasets we used
 [data](/Data/)<br>
-This is the assignment
-[data](assignment.pdf)<br>
+This is the assignment for the work
+[assignment](Assignment_classification.pdf)<br>
